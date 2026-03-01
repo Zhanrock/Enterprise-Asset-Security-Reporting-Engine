@@ -1,0 +1,11 @@
+asset_id,name,category,owner,location,purchase_date,warranty_expiry,status
+A001,Dell XPS 15,Laptop,Alice Johnson,HQ Floor 2,2022-03-10,2025-03-10,Active
+A002,HP EliteBook 840,Laptop,Bob Smith,Remote,2021-07-15,2024-07-15,Active
+A003,Cisco Catalyst 9200,Switch,Network Team,Server Room,2020-11-01,2025-11-01,Active
+A004,Dell PowerEdge R740,Server,IT Ops,Data Center,2019-05-20,2024-05-20,Active
+A005,MacBook Pro M2,Laptop,Carol White,HQ Floor 1,2023-01-05,2026-01-05,Active
+A006,Juniper EX2300,Switch,Network Team,Branch Office,2021-02-28,2024-02-28,In-Repair
+A007,VMware ESXi Host,Server,IT Ops,Data Center,2018-09-14,2023-09-14,Active
+A008,Lenovo ThinkPad X1,Laptop,David Lee,HQ Floor 3,2022-08-22,2025-08-22,Active
+A009,Palo Alto PA-220,Firewall,Security Team,Server Room,2021-06-10,2024-06-10,Active
+A010,HP ProLiant DL380,Server,IT Ops,Data Center,2020-04-01,2025-04-01,Decommissioned

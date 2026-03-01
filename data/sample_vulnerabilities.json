@@ -1,0 +1,11 @@
+[
+  {"asset_id": "A001", "cve_id": "CVE-2024-1234", "severity": "High",    "description": "Remote code execution in OpenSSL",       "detected_date": "2024-01-10", "status": "Open"},
+  {"asset_id": "A001", "cve_id": "CVE-2023-5678", "severity": "Medium",  "description": "Privilege escalation in Linux kernel",    "detected_date": "2023-12-05", "remediated_date": "2024-01-02", "status": "Remediated"},
+  {"asset_id": "A002", "cve_id": "CVE-2024-2001", "severity": "Critical","description": "Zero-day in Windows Print Spooler",       "detected_date": "2024-02-01", "status": "Open"},
+  {"asset_id": "A003", "cve_id": "CVE-2023-9001", "severity": "High",    "description": "Cisco IOS XE web UI vulnerability",       "detected_date": "2023-10-20", "status": "In-Progress"},
+  {"asset_id": "A004", "cve_id": "CVE-2024-3100", "severity": "Critical","description": "iDRAC unauthenticated RCE",               "detected_date": "2024-03-05", "status": "Open"},
+  {"asset_id": "A005", "cve_id": "CVE-2023-7890", "severity": "Low",     "description": "macOS Safari information disclosure",     "detected_date": "2023-11-15", "remediated_date": "2023-12-01", "status": "Remediated"},
+  {"asset_id": "A007", "cve_id": "CVE-2024-4400", "severity": "High",    "description": "VMware ESXi heap overflow",               "detected_date": "2024-04-01", "status": "Open"},
+  {"asset_id": "A009", "cve_id": "CVE-2024-5500", "severity": "Medium",  "description": "PAN-OS XSS in management interface",      "detected_date": "2024-04-10", "status": "Open"},
+  {"asset_id": "A008", "cve_id": "CVE-2023-1111", "severity": "Low",     "description": "Lenovo BIOS update verification bypass",  "detected_date": "2023-09-01", "status": "Remediated"}
+]

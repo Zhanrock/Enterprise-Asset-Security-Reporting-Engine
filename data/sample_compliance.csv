@@ -1,0 +1,11 @@
+asset_id,framework,control_id,compliant,last_checked,notes
+A001,CIS,CIS-1.1,Yes,2024-01-15,Inventory up to date
+A001,CIS,CIS-2.1,No,2024-01-15,Missing patch
+A002,NIST,AC-1,Yes,2024-01-20,Access controls configured
+A002,NIST,SI-2,No,2024-01-20,Patching overdue
+A003,CIS,CIS-12.1,Yes,2024-02-01,Network segmentation in place
+A004,ISO27001,A.12.6.1,No,2024-02-05,Patch management policy missing
+A005,CIS,CIS-1.1,Yes,2024-01-10,Asset registered
+A007,NIST,SI-2,No,2024-03-01,ESXi patch pending
+A008,CIS,CIS-1.1,Yes,2024-01-20,All controls met
+A009,ISO27001,A.12.6.1,Yes,2024-04-12,Firewall rules reviewed
